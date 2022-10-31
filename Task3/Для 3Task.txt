@@ -1,0 +1,6 @@
+Passenger | Boeing BBJ 747-8 | 917 | 367 млн | 16437 | 100 | 442250
+Passenger | BOEING BBJ 787 | 917 | 224 млн | 18418 | 100 | 227930
+Passenger | AIRBUS ACJ380 | 900 | 445 млн | 17250 | 100 | 560000
+Cargo | AIRBUS ACJ330 | 935 | 209 млн | 14800 | 5 | 738000
+Passenger | AIRBUS ACJ320NEO | 1005 | 95 млн | 11000 | 50 | 79000
+Cargo | Airbus ACJ319neo | 850 | 99,5 млн | 12500 | 5 | 777300

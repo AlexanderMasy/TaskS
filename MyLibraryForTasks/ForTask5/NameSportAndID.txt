@@ -1,0 +1,7 @@
+Football	1
+Sport aircraft modeling	2
+Water polo	3
+Gymnastics	4
+Athletics	5
+Hockey	6
+Polo	7
