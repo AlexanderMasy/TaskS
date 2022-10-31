@@ -35,7 +35,7 @@ namespace MyLibraryForTasks
                 }
                 Console.WriteLine();
             }
-            Console.WriteLine("___________________________Изменение напарника");
+            Console.WriteLine("___________________________");
         }
 
         public static string Logic(int [,] arr)
